@@ -1,4 +1,4 @@
-##**Digit Recognition (MNIST) CNN-Based Handwritten**
+## **Digit Recognition (MNIST) CNN-Based Handwritten**
 
 Contributors:
 - Rohan Jha (055057)
